@@ -25,4 +25,12 @@
         android:layout_below="@+id/texto"
         android:theme="@style/MyRaisedButton"/>
 
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/star_ic"
+        android:layout_below="@+id/button"
+        android:id="@+id/Myfav"/>
+
+
 </RelativeLayout>
