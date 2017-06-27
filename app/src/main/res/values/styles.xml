@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!--Estilo especifico para nuestro boton-->
+    <style name="MyRaisedButton" parent="AlertDialog.AppCompat.Light">
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorWhite</item><!--El color que toma cuando el boton esta presionado-->
+        <item name="android:textColor">@color/colorWhite</item>
+    </style>
+
 </resources>

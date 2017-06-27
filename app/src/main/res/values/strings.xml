@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Petagram</string>
+    <string name="text">Qhubo parce</string>
+    <string name="boton">Tocame</string>
 </resources>
