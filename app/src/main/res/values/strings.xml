@@ -2,4 +2,6 @@
     <string name="app_name">Petagram</string>
     <string name="text">Qhubo parce</string>
     <string name="boton">Tocame</string>
+    <string name="mensaje">Añadido a favoritos</string>
+    <string name="text_action">Accion!</string>
 </resources>
