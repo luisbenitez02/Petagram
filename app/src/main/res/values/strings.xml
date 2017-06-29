@@ -4,4 +4,11 @@
     <string name="boton">Tocame</string>
     <string name="mensaje">Añadido a favoritos</string>
     <string name="text_action">Accion!</string>
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+    </string-array>
 </resources>
