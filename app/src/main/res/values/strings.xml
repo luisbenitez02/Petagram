@@ -11,4 +11,7 @@
         <item>Marte</item>
         <item>Jupiter</item>
     </string-array>
+    <string name="titulo_card">Android 5.0</string>
+    <string name="descripcion">Desde esta version se incluye material Design, Lollipop</string>
+    <string name="solicitado">imagen del bombon</string>
 </resources>

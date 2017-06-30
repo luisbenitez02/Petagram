@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="lista_height">200dp</dimen>
+    <dimen name="card_medida">200dp</dimen>
+    <dimen name="text_size_card">20dp</dimen>
+    <dimen name="altura_img">100dp</dimen>
+    <dimen name="margen_layout">8dp</dimen>
+</resources>
